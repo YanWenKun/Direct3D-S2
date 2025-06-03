@@ -1,6 +1,6 @@
 from typing import *
 
-BACKEND = 'torchsparse'
+BACKEND = 'spconv'
 DEBUG = False
 ATTN = 'xformers'
 
